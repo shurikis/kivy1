@@ -4,9 +4,9 @@ from kivy.uix.label import Label
 
 from kivy.uix.gridlayout import GridLayout
 
-from kivy.config import Config
-Config.set('graphics', 'width', 400)
-Config.set('graphics', 'height', 500)
+# from kivy.config import Config
+# Config.set('graphics', 'width', 400)
+# Config.set('graphics', 'height', 500)
 
 
 class CalculatorApp(App):
